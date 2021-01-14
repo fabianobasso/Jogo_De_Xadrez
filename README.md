@@ -11,6 +11,9 @@ de métodos, Declaração de construtores, Encapsulamento, Herança e também fo
 ## Layout 
 
 ## Modelo conceitual
+Modelo do digrama de classe:
+
+[!(https://github.com/fabianobasso/assets/blob/master/img/ModelosConceitual/ModeloConceitualJogoXadrez.png)]
 
 
 # Tecnologias utilizadas
