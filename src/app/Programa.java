@@ -1,8 +1,13 @@
 package app;
 
+import chess.ChessMatch;
+
 public class Programa {
 	
 	public static void main(String[] args) {
-		System.out.println("Olá mundo");
+		
+		ChessMatch chessMatch = new ChessMatch();
+		UI.printBoard(chessMatch.getPiece());
+		
 	}
 }
