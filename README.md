@@ -10,7 +10,7 @@ de métodos, Declaração de construtores, Encapsulamento, Herança e também fo
 
 ## Layout 
 Tabuleiro:
-![Tabuleiro](https://github.com/fabianobasso/assets/blob/master/img/ModelosConceitual/SistemaJogoXadrez.png)
+![Tabuleiro](https://github.com/fabianobasso/assets/blob/master/img/JogoXadrez/tabuleiro.png)
 
 ## Modelo conceitual
 Modelo do digrama de classe:
