@@ -35,6 +35,55 @@ Esse projeto foi desenvolvido durante meus estudos da linguagem Java, como um pr
 <br>
 <br>
 
+<table>
+    <tr>
+        <th>Tela do Jogo</th>
+        <th>Explicação de como Jogar</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/JogoXadrez/Jogando1.png"></td>
+        <td><b>Jogando: </b>
+            <br>
+            Os números de <b>1 até 8</b> representam as <b>linhas</b>, letra de <b>a até h</b> representam as colunas. <br>
+            <b>Origem: </b> sempre escolhe primeiro a coluna depois a linha <b>Exemplo: a2<b>
+        </td>
+    </tr>
+</table>
+<br>
+<br>
+
+<table>
+    <tr>
+        <th>Tela do Jogo</th>
+        <th>Explicação de como Jogar</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/JogoXadrez/Jogando2.png"></td>
+        <td><b>Jogando: </b>
+            <br>
+            <b>Destino: </b> sempre escolhe primeiro a coluna depois a linha <b>Exemplo: d4</b> é para onde vai mandar sua peça de acordo com o movimento de cada uma
+        </td>
+    </tr>
+</table>
+<br>
+<br>
+
+<table>
+    <tr>
+        <th>Tela do Jogo</th>
+        <th>Informações do Jogo</th>
+    </tr>
+    <tr>
+        <td><img src="https://github.com/fabianobasso/assets/blob/master/img/JogoXadrez/Jogando3.png"></td>
+        <td>Vale muito conferir esse projeto do jogo foi criado todas as regras e o movimentos extraordinários.
+        <br>
+        para conferir as regras e o movimentos pode entra <a href="https://pt.wikipedia.org/wiki/Leis_do_xadrez">wikipedia - Regras Xadrez</a>
+        </td>
+    </tr>
+</table>
+<br>
+<br>
+
 ## Modelo conceitual
 Modelo do digrama de classe:
 
@@ -46,25 +95,30 @@ Modelo do digrama de classe:
 
 ## Back end
 - Java
-
+<br>
+<b style="color: red;">OBS:</b> O jogo foi desenvolvido em java usando Orientação a objeto seguindo todos os conceitos como Encapsulamento, Herança, polimorfismo.
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: 
+- Java 11
+- Terminal colorido windows(pode executar pelo Bash do git), Linux(qualquer terminal) 
 
 ```bash
 # clonar repositório
-
-
-
-
+git clone https://github.com/fabianobasso/Jogo_De_Xadrez.git
 
 # executar o projeto
+# navegar pelo terminal até a pasta do projeto dentro da pasta bin/
+# executar esse comando
+java app.Programa
 
 ```
 
 # Autor
 
 Fabiano Basso Antonio
+
+**Linkedin:** https://www.linkedin.com/in/fabiano-basso
+
 

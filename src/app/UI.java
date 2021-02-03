@@ -58,7 +58,7 @@ public class UI {
 		System.out.println();
 		printCapturedPiece(captured);
 		System.out.println();
-		String color = (chessMatch.getCurrentPlayer() == Color.WHITE) ? "Peças Brancas" : "Peças Pretas";
+		String color = (chessMatch.getCurrentPlayer() == Color.WHITE) ? "Peças Brancas" : "Peças Amarelas";
 		System.out.println();
 		System.out.println("Turno : " + chessMatch.getTurn());
 		if(!chessMatch.getCheckMate()) {
